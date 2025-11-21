@@ -1,0 +1,17 @@
+.container{
+    background-color: #fff;
+    width: 450px;
+}
+
+body{
+    background-color: rgb(241, 208, 229);
+}
+
+.ajuste{
+    display: flex;
+    justify-content: space-between;
+}
+
+.check-btn{
+    cursor: pointer;
+}
